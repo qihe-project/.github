@@ -12,7 +12,7 @@ We're excited to have you join us!
 
 ## Getting Started
 
-1. Explore the `qihe` repository in this organization and review its `README.md` to get familiar with the project.
+1. Explore the [`qihe`](https://github.com/qihe-project/qihe) repository in this organization and review its `README.md` to get familiar with the project.
 2. If you have any questions or need assistance, feel free to reach out.
 
 ## Community Guidelines
