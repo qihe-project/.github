@@ -1,48 +1,28 @@
-# Welcome to Qihe Project! 👋
+# Welcome to the Qihe Project! 👋
 
 ## About This Organization
 
-Welcome! This organization is dedicated to providing access to the latest code from qihe-related repositories. We're glad to have you as part of our community.
+Welcome to the Qihe community! This organization is dedicated to:
 
-## Purpose
+- 🚀 Providing access to the latest Qihe codebase and related projects
+- 💬 Facilitating communication, issue reporting, and feedback
+- 🤝 Encouraging contributions to the development of Qihe
 
-The primary purpose of this organization is to:
-- Share and collaborate on qihe-related projects
-- Provide access to the most up-to-date codebases
-- Foster a collaborative development environment
-
-## Important Guidelines
-
-### Responsible Use of Permissions
-
-Please note that GitHub's free tier has relatively relaxed permission controls. We trust all members to use their permissions responsibly and ethically. 
-
-**Please remember to:**
-- ✅ Only make changes that are necessary and constructive
-- ✅ Respect other members' work and contributions
-- ✅ Follow best practices for code review and collaboration
-- ✅ Ask questions if you're unsure about something
-
-**Please avoid:**
-- ❌ Making unauthorized or disruptive changes
-- ❌ Misusing access permissions
-- ❌ Actions that could harm the repositories or community
-
-## Maintaining a Harmonious Environment
-
-We believe in creating and maintaining a positive, collaborative environment where everyone can contribute effectively. Let's work together to:
-- Keep our codebases clean and well-maintained
-- Support each other in learning and development
-- Communicate openly and respectfully
-- Build something great together!
+We're excited to have you join us!
 
 ## Getting Started
 
-1. Browse the repositories in this organization
-2. Clone the repositories you need to work with
-3. Follow each repository's contribution guidelines
-4. Reach out if you have any questions or need help
+1. Explore the `qihe` repository in this organization and review its `README.md` to get familiar with the project.
+2. If you have any questions or need assistance, feel free to reach out.
+
+## Community Guidelines
+
+Our GitHub organization grants relatively open permissions to all members, as more fine-grained access controls require paid features.
+We rely on the integrity and good faith of our community members to use their access thoughtfully, responsibly, and with respect for the community.
+
+**Please avoid any actions that could harm the repositories or the organization:**
+- ❌ Creating unauthorized repositories, projects, or teams within this organization
 
 ---
 
-Thank you for being a responsible member of our community! 🙏
+Thank you for being a valued and responsible member of our community! 🙏
