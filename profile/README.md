@@ -12,8 +12,9 @@ We're excited to have you join us!
 
 ## Getting Started
 
-1. Explore the [`qihe`](https://github.com/qihe-project/qihe) repository in this organization and review its `README.md` to get familiar with the project.
-2. If you have any questions or need assistance, feel free to reach out.
+1. Fill out the application form on the [Qihe website](https://qihe.pascal-lab.net) to become a member of this organization and gain access to the [`qihe`](https://github.com/qihe-project/qihe) repository.
+2. Explore the [`qihe`](https://github.com/qihe-project/qihe) repository and review its `README.md` to get familiar with the project.
+3. If you have any questions or need assistance, feel free to reach out.
 
 ## Community Guidelines
 
